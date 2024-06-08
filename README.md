@@ -33,6 +33,15 @@ def hello_world():
 
 ---
 
+
+```
+PS C:\Users\Asus\Documents\ignore_try> git add .
+warning: in the working copy of 'hello.py', LF will be replaced by CRLF the next time Git touches it
+PS C:\Users\Asus\Documents\ignore_try> git status
+On branch master
+Your branch is up to date with 'origin/master'.
+```
+
 ## cheat sheet
 
 1. copy .venv file
@@ -42,3 +51,4 @@ def hello_world():
 5. flask --app app run
 6. flask run
 7.  python -m flask --app <filename> run
+   
