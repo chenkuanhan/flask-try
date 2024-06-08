@@ -1,3 +1,6 @@
+# 快速開始
+
+
 ```Python
 # pip install flask
 
